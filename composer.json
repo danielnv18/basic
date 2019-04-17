@@ -1,0 +1,13 @@
+{
+    "name": "drupal-settings/basic",
+    "type": "drupal-profile",
+    "description": "a fork of the Drupal standard profile",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Daniel Noyola",
+            "email": "danielnv18@gmail.com"
+        }
+    ],
+    "require": {}
+}
