@@ -1,0 +1,37 @@
+name: Recharge
+type: profile
+description: 'Install with commonly used features pre-configured.'
+core: 8.x
+install:
+  - node
+  - history
+  - block
+  - ckeditor
+  - color
+  - config
+  - contextual
+  - menu_link_content
+  - datetime
+  - block_content
+  - quickedit
+  - editor
+  - image
+  - menu_ui
+  - options
+  - path
+  - page_cache
+  - dynamic_page_cache
+  - big_pipe
+  - taxonomy
+  - dblog
+  - search
+  - shortcut
+  - toolbar
+  - field_ui
+  - file
+  - views
+  - views_ui
+  - automated_cron
+themes:
+  - bartik
+  - seven
