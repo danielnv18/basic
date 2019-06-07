@@ -8,8 +8,8 @@
             "name": "Daniel Noyola",
             "email": "danielnv18@gmail.com"
         }
-	],
-	"repositories": [
+    ],
+    "repositories": [
         {
             "type": "composer",
             "url": "https://packages.drupal.org/8"
