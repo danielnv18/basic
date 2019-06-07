@@ -15,5 +15,8 @@
             "url": "https://packages.drupal.org/8"
         }
     ],
-    "require": {}
+    "require": {
+        "drupal/admin_toolbar": "^1.27",
+		"drupal/claro": "^1.0"
+    }
 }

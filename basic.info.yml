@@ -3,6 +3,8 @@ type: profile
 description: 'Install with commonly used features pre-configured.'
 core: 8.x
 install:
+
+	# Core
   - node
   - history
   - block
@@ -32,6 +34,10 @@ install:
   - views
   - views_ui
   - automated_cron
+
+	# Contrib
+	- admin_toolbar
 themes:
   - bartik
   - seven
+	- claro
