@@ -17,6 +17,6 @@
     ],
     "require": {
         "drupal/admin_toolbar": "^1.27",
-		"drupal/claro": "^1.0"
+        "drupal/claro": "^1.0"
     }
 }

@@ -35,9 +35,9 @@ install:
   - views_ui
   - automated_cron
 
-	# Contrib
-	- admin_toolbar
+  # Contrib
+  - admin_toolbar
 themes:
   - bartik
   - seven
-	- claro
+  - claro
