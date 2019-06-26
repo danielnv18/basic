@@ -2,8 +2,10 @@ name: Basic
 type: profile
 description: 'Install with commonly used features pre-configured.'
 core: 8.x
-install:
+distribution:
+  name: Basic
 
+install:
   # Core
   - node
   - history
