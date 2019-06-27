@@ -12,7 +12,7 @@ display: modal
 display_configuration:
   width: '1070'
   height: '500'
-  link_text: 'Select media'
+  link_text: 'Select image'
   auto_open: false
 selection_display: no_display
 selection_display_configuration: {  }
@@ -33,9 +33,9 @@ widgets:
     settings:
       view: media_entity_browser
       view_display: media_browser_all
-      submit_text: 'Select media'
+      submit_text: 'Select image'
       auto_select: false
     uuid: fc729026-c85f-4561-acd5-38d4082b69fb
     weight: -10
-    label: 'Choose existing media'
+    label: 'Choose existing image'
     id: view
