@@ -24,6 +24,7 @@
         "drupal/drupal": "*"
     },
     "require": {
+        "cweagans/composer-patches": "^1.6",
         "drupal/admin_toolbar": "^1.27",
         "drupal/claro": "^1.0"
     }
