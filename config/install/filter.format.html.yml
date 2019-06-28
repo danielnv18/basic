@@ -3,8 +3,8 @@ status: true
 dependencies:
   module:
     - editor
-name: 'Basic HTML'
-format: basic_html
+name: 'HTML'
+format: html
 weight: 0
 roles:
   - authenticated
